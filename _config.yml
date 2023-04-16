@@ -15,14 +15,14 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 title: Code & Craft Academy
 
 # Your name to show in the footer
-author: JJ Kwan & Jaren Chen
+author: Code & Craft Academy ©
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About: "about"
+  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"

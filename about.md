@@ -5,7 +5,7 @@ subtitle: Preparing young minds for the modern world
 ---
 
 ### Our Goals
-- **Empower** students with creativity and critical thinking to prepare them for an everchanging world
+- **Empower** students with creativity and critical thinking skills to prepare them for an everchanging world
 - **Expose** students to engineering and programming through interactive and comprehensive courses
 - **Develop** self-directed learners with the ability to cooperate and collaborate with others
 
@@ -15,6 +15,6 @@ Recognising the need to inspire and educate the next generation of problem solve
 ### Our Achievements & Credentials
 - Singapore VEX Robotics Competition, Tournament Champion (2018, 2019), Tournament Finalists (2017)
 - VEX Robotics World Championships, Division Champion (2019), Division Finalist (2018)
-- FIRST Global Challenge, Zheng Heng Award for Engineering Design (2019)
+- FIRST Global Challenge, Zheng Heng Silver Award for Engineering Design (2019)
 - VEX Robotics certified educator
 - Ministry of Education certified robotics instructor

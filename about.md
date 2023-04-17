@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: aboutpage
 title: About the Founders
 subtitle: The best way to predict the future is to invent it ~ Alan Kay
 ---

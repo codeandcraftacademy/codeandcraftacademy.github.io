@@ -3,12 +3,19 @@
   box-sizing: border-box;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
 /* Float two columns side by side */
 .column {
   float: left;
-  width: 30%;
-  padding: 0 10px;
-  margin:auto;
+  width: 50%;
+  padding: 10px 10px;
 }
 
 /* Remove extra left and right margins, due to padding in columns */
@@ -40,11 +47,13 @@
   font-size:2em;
   padding:30px;
   font-weight:bolder;
+  font-family: 'Lora', 'Times New Roman', serif;
 }
   
 .course-description{
       text-align:left;
 }
+
 
 /* Responsive columns - one column layout (vertical) on small screens */
 @media screen and (max-width: 600px) {

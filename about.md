@@ -18,7 +18,7 @@ Code & Craft Academy is led by its co-founders, Kwan Jun Jie and Jaren Chen, wit
 
 ### Our Achievements and Credentials
 - Singapore VEX Robotics Competition, Tournament Champion (2015, 2017, 2018), Tournament Finalists (2016, 2019)
-- VEX Robotics World Championships, Division Champion (2019, 2018)
+- VEX Robotics World Championship, Division Champion (2019, 2018)
 - FIRST Global Challenge, Zheng Heng Silver Award for Engineering Design (2019)
 - FIRST LEGO League Singapore, Champion (2014)
 - FIRST LEGO League International Open Championship Canada, Robot Design/ Strategy and Innovation Award (2014)

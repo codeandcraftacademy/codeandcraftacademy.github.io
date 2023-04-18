@@ -12,7 +12,7 @@ subtitle: Preparing young minds for the modern world
 ### Our History
 Recognising the need to inspire and educate the next generation of problem solvers, Code & Craft Academy was founded to enahnce the skills of students in the areas of coding and robotics. The academy is commited to equipping students with the skills and knowledge needed to solve the challenges of today and tomorrow.
 
-Code & Craft Academy is led by its co-founders, Kwan Jun Jie and Jaren Chen, with more than 6 years of experience in VEX and competitive robotics. The academy advisor, Samuel Chee, has more than 20 years of experience in educational robotics.
+Code & Craft Academy is led by its co-founders, Kwan Jun Jie and Jaren Chen, with more than 12 years of collective experience in VEX and competitive robotics. The academy advisor, Samuel Chee, has more than 20 years of experience in educational robotics.
 
 ![8059A-2019-Worlds](/assets/img/8059a-2019-worlds.jpg)
 
@@ -20,5 +20,7 @@ Code & Craft Academy is led by its co-founders, Kwan Jun Jie and Jaren Chen, wit
 - Singapore VEX Robotics Competition, Tournament Champion (2018, 2019), Tournament Finalists (2017)
 - VEX Robotics World Championships, Division Champion (2019), Division Finalist (2018)
 - FIRST Global Challenge, Zheng Heng Silver Award for Engineering Design (2019)
+- FIRST LEGO League Singapore, Champion (2014)
+- FIRST LEGO League International Open Championship Canada, Robot Design/ Strategy and Innovation Award (2014)
 - VEX Robotics certified educator
 - Ministry of Education certified robotics instructor
